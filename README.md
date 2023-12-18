@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex. I am 13 years old.
 - 👀 I’m interested in full-stack software development and 2d and 3d game development as a hobby.
-- 🧠 I know: HTML / CSS / JAVASCRIPT / REACT / TAILWIND / ELECTRON / PYTHON / C++ / UNREAL ENGINE 5.3 (lanscaping only).
+- 🧠 I know: HTML / CSS / JAVASCRIPT / REACT / TAILWIND / ELECTRON / PYTHON / C++ / UNREAL ENGINE 5.3 (landscaping only).
 - 🌱 I’m currently learning HTML / CSS / JAVASCRIPT / REACT / TAILWIND / ELECTRON.
 - ⌚ I'm looking forward to learning: Back-end development, React Native and more advanced C++ .
 - 💞️ I’m looking to collaborate on different projects, just hit me up with an email if you want me to be part of one..
