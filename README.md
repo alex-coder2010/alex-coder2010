@@ -6,6 +6,7 @@
 - 💞️ I’m looking to collaborate on different projects, just hit me up with an email if you want me to be part of one..
 - 📫 How to reach me: alex10.zambaiti@gmail.com.
 - 📝 Some of my projects, including:
+  
    -  A snake game (built alone)
    -  A social media website (built with other team members. I did the front-end while the others are working on the back-end with next.js)
    -  A calculator (built alone)
