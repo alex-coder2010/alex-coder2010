@@ -4,13 +4,13 @@
 - 🌱 I’m currently learning HTML / CSS / JAVASCRIPT / REACT / TAILWIND / ELECTRON.
 - ⌚ I'm looking forward to learning: Back-end development, React Native and more advanced C++ .
 - 💞️ I’m looking to collaborate on different projects, just hit me up with an email if you want me to be part of one..
+- 📫 How to reach me: alex10.zambaiti@gmail.com.
 - 📝 Some of my projects, including:
    -  A snake game (built alone)
    -  A social media website (built with other team members. I did the front-end while the others are working on the back-end with next.js)
    -  A calculator (built alone)
    -  A clock (built alone)
    -  Much more...
-- 📫 How to reach me: alex10.zambaiti@gmail.com.
 
 <!---
 alex-coder2010/alex-coder2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
