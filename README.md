@@ -1,14 +1,14 @@
 - 👋 Hi, I’m Alex. I am 13 years old.
 - 👀 I’m interested in full-stack software development and 2d and 3d game development as a hobby.
-- 🧠 I know: HTML / CSS / JAVASCRIPT / REACT / TAILWIND / ELECTRON / PYTHON / C++ / UNREAL ENGINE 5.3 (landscaping only).
-- 🌱 I’m currently learning HTML / CSS / JAVASCRIPT / REACT / TAILWIND / ELECTRON.
-- ⌚ I'm looking forward to learning: Back-end development, React Native and more advanced C++ .
+- 🧠 I know: HTML / CSS / JAVASCRIPT / REACT / PYTHON / C++ / UNREAL ENGINE 5.3 (landscaping only).
+- 🌱 I’m currently learning  JAVASCRIPT (more advanced) / REACT (more advanced) / NODE.JS / EXPRESS.JS / MONGODB / NEXTJS.
+- ⌚ I'm looking forward to learning: React Native and more advanced C++ .
 - 💞️ I’m looking to collaborate on different projects, just hit me up with an email if you want me to be part of one..
 - 📫 How to reach me: alex10.zambaiti@gmail.com.
 - 📝 Some of my projects, including:
   
    -  A snake game (built alone)
-   -  A social media website (built with other team members. I did the front-end while the others are working on the back-end with next.js)
+   -  A social media website (built with other team members)
    -  A calculator (built alone)
    -  A clock (built alone)
    -  Much more...
