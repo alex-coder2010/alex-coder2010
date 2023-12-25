@@ -8,7 +8,7 @@
 - 📝 Some of my projects, including:
   
    -  A snake game (built alone)
-   -  A social media website (built with other team members)
+   -  A social media website (*building* with other team members)
    -  A calculator (built alone)
    -  A clock (built alone)
    -  Much more...
